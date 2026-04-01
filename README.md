@@ -10,9 +10,17 @@ A simple Python-based port scanner that identifies open common ports on a target
 
 ## Usage
 
+Run the script:
+
 ```bash
 python3 port_scanner.py
+```
 
 Then enter a target hostname or IP address:
 ```bash
 scanme.nmap.org
+```
+
+
+
+
